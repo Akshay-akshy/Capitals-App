@@ -1,4 +1,4 @@
-- `capitals App`
+ `capitals App`
 
 <br/>
 <div style="text-align: center;">
